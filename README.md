@@ -1,6 +1,6 @@
 # pestcontrol
 A work by Samrat Pant 
-Url: http://www.astra-labs.com
+Url: http://www.samratpant.com
 Creating smart technologies which are both cheap and essential
 Smart pest contol
 Uses arduino tone library to generate various ultrasonic sounds.
